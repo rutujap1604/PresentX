@@ -123,6 +123,7 @@ Contributions are welcome! Please open an issue or submit a PR.
 MIT License. See `LICENSE` for details.
 
 ## Contact
-Questions or feedback? Email: [YOUR_EMAIL@example.com]
+Questions or feedback? Email: [rutujapatil16dec@gmail.com]
 Developed by Rutuja
+
 
